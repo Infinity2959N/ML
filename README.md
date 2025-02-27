@@ -17,3 +17,12 @@ Projects in this repository:
 7. Gradient Boosting
 8. Ada Boost
 9. Artificial Neural Network (sequential model with dense layers)
+
+**File names:**
+1. AQI using ml models: Air quality Index (pm 2.5) orediction using LinearRegression and Random Forest
+2. Exploratory Data Analysis on Toyota Corolla Dataset: EDA (statistical, univariate, bivariate and multivariate analysis) and price prediction using Random Forest
+3. Heart Disease Prediction using ANN: Prediction of heart Disease on Kaggle's *Heart Disease* dataset using multiple ML models and a swquential ANN model.
+4. Prediction: A simple, straightforward linear regression model to predict the salary Package using CGPA.
+5. Model: A pickle file of the model generated from the Package prediction notebook.
+6. App: Code for streamlit application for Package from CGPA prediction. Use this link to check out the app: https://package-pred.streamlit.app/
+7. Requuirements: A list of required python libraries for the streamlit app to run.
