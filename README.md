@@ -3,8 +3,9 @@ This repo holds all the Jupyter notebooks and projects I have made for the GDG A
 
 Projects in this repository:
 1. AQI prediction using Linear Regression and Random Forest (On real-world web scraped data)
-2. In-depth Exploratory Data Analysis and Price prediction on 'Toyota Corolla' dataset on Kaggle.
-3. Heart Disease prediction using Artificial Neural Network (and a lot of ML models as well)
+2. Simple streamlit app for Package prediction from CGPA using Linear Regression.
+3. In-depth Exploratory Data Analysis and Price prediction on 'Toyota Corolla' dataset on Kaggle.
+4. Heart Disease prediction using Artificial Neural Network (and a lot of ML models as well)
 
 **Machine Learning models you will find on these projects:**
 1. Linear Regression
